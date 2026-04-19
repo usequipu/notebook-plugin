@@ -1,7 +1,7 @@
 {
   "id": "notebook-plugin",
   "name": "Jupyter Notebook",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Jupyter notebook viewer and executor with live kernel support for .ipynb files.",
   "entry": "index.js",
   "quipuVersion": ">=0.14.0",
